@@ -1,0 +1,440 @@
+.home-child {
+    position: absolute;
+    top: 97.51px;
+    left: 108.51px;
+    border-top: 1px solid var(--color-gray-200);
+    box-sizing: border-box;
+    width: 1171.98px;
+    height: 0.98px;
+  }
+  .home-item {
+    position: absolute;
+    top: 98px;
+    left: 700px;
+    width: 580px;
+    height: 913px;
+    object-fit: cover;
+  }
+  .span1 {
+    color: var(--color-red-200);
+  }
+  .gafarillo2 {
+    position: absolute;
+    top: 33px;
+    left: 109px;
+    font-size: 37.47px;
+    font-weight: 600;
+  }
+  .i-am1 {
+    color: var(--color-black);
+  }
+  .gafarillo3,
+  .hi-i-am-container1 {
+    position: absolute;
+    top: 149px;
+    left: 109px;
+    font-size: var(--font-size-42xl-1);
+    color: var(--color-mediumslateblue);
+  }
+  .gafarillo3 {
+    top: 221px;
+  }
+  .home3,
+  .uiux-designer-with-container1 {
+    position: absolute;
+    top: 47px;
+    left: 490px;
+    font-weight: 500;
+  }
+  .uiux-designer-with-container1 {
+    top: 343.93px;
+    left: 109px;
+    font-size: var(--font-size-mid-6);
+  }
+  .instagram1,
+  .services1,
+  .youtube1 {
+    position: absolute;
+    top: 46.88px;
+    left: 581px;
+    font-weight: 500;
+    color: var(--color-gray-100);
+  }
+  .services1,
+  .youtube1 {
+    top: 45px;
+    left: 715px;
+  }
+  .services1 {
+    left: 833px;
+  }
+  .download-cv1 {
+    position: absolute;
+    top: 50px;
+    left: 1086px;
+    font-size: var(--font-size-mini);
+    font-weight: 600;
+  }
+  .home-inner {
+    position: absolute;
+    top: 43px;
+    left: 1062px;
+    background-color: var(--color-gainsboro);
+    border: 1px solid var(--color-darkslategray);
+    box-sizing: border-box;
+    width: 150px;
+    height: 36px;
+  }
+  .home-child1 {
+    position: absolute;
+    top: 179px;
+    left: 387px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-mediumslateblue);
+    width: 118px;
+    height: 37px;
+  }
+  .uiux1 {
+    position: absolute;
+    top: 183px;
+    left: 418px;
+    font-size: 19.66px;
+    font-weight: 600;
+    color: var(--color-white);
+  }
+  .home-child2 {
+    position: absolute;
+    top: 430px;
+    left: 97px;
+    background: linear-gradient(90deg, #ff6363, rgba(255, 60, 60, 0.93));
+    width: 174.49px;
+    height: 55.17px;
+  }
+  .email-me1,
+  .hire-me1 {
+    position: absolute;
+    font-weight: 500;
+  }
+  .hire-me1 {
+    top: 445px;
+    left: 153px;
+    font-size: 16.51px;
+    color: var(--color-white);
+  }
+  .email-me1 {
+    top: 443px;
+    left: 302.21px;
+    font-size: 20.19px;
+  }
+  .b2,
+  .los-angeles2,
+  .years2 {
+    position: absolute;
+    top: 532.24px;
+    left: 97px;
+    font-size: 22.56px;
+  }
+  .b2,
+  .los-angeles2 {
+    top: 627px;
+  }
+  .los-angeles2 {
+    left: 295px;
+  }
+  .experience1,
+  .living-place2,
+  .projects1 {
+    position: absolute;
+    top: 569.7px;
+    left: 97px;
+    font-size: 17.66px;
+    font-weight: 600;
+    color: var(--color-dimgray-100);
+  }
+  .living-place2,
+  .projects1 {
+    top: 664.45px;
+  }
+  .living-place2 {
+    left: 295px;
+  }
+  .home-child3 {
+    position: absolute;
+    top: 743px;
+    left: 0;
+    background-color: var(--color-black);
+    width: 700px;
+    height: 268px;
+  }
+  .projects-case-studies1 {
+    position: absolute;
+    top: 789px;
+    left: 97px;
+    font-size: 22.56px;
+    font-weight: 600;
+    color: var(--color-white);
+    display: inline-block;
+    width: 164px;
+  }
+  .sneakers-store1 {
+    position: absolute;
+    top: 174.06px;
+    left: 2.45px;
+    font-weight: 500;
+  }
+  .line-div {
+    position: absolute;
+    top: 197.81px;
+    left: -0.61px;
+    border-top: 1.2px solid var(--color-darkgray);
+    box-sizing: border-box;
+    width: 224.23px;
+    height: 1.23px;
+  }
+  .group-icon3 {
+    position: absolute;
+    height: 4.05%;
+    width: 4.62%;
+    top: 0;
+    right: 6.91%;
+    bottom: 95.95%;
+    left: 88.46%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .sneakers-store-group {
+    position: absolute;
+    top: 631.94px;
+    left: 367px;
+    width: 223px;
+    height: 198.42px;
+    font-size: 15.61px;
+    color: var(--color-white);
+  }
+  .flames-fitness1 {
+    position: absolute;
+    top: 186.41px;
+    left: 2.45px;
+    font-weight: 500;
+  }
+  .group-child1 {
+    position: absolute;
+    top: 209.58px;
+    left: -0.61px;
+    border-top: 1.2px solid var(--color-darkgray);
+    box-sizing: border-box;
+    width: 224.23px;
+    height: 1.23px;
+  }
+  .group-icon4 {
+    position: absolute;
+    height: 3.83%;
+    width: 4.62%;
+    top: 0;
+    right: 6.91%;
+    bottom: 96.17%;
+    left: 88.46%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .flames-fitness-group {
+    position: absolute;
+    top: 672.96px;
+    left: 367px;
+    width: 223px;
+    height: 210.19px;
+    font-size: 15.61px;
+    color: var(--color-white);
+  }
+  .thenx-store1 {
+    position: absolute;
+    top: 197.98px;
+    left: 2.45px;
+    font-weight: 500;
+  }
+  .group-child2 {
+    position: absolute;
+    top: 221.4px;
+    left: -0.61px;
+    border-top: 1.2px solid var(--color-darkgray);
+    box-sizing: border-box;
+    width: 224.23px;
+    height: 1.23px;
+  }
+  .group-icon5 {
+    position: absolute;
+    height: 3.62%;
+    width: 4.62%;
+    top: 0;
+    right: 6.91%;
+    bottom: 96.38%;
+    left: 88.46%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .thenx-store-group {
+    position: absolute;
+    top: 714.17px;
+    left: 367px;
+    width: 223px;
+    height: 222.01px;
+    font-size: 15.61px;
+    color: var(--color-white);
+  }
+  .home-child4 {
+    position: absolute;
+    top: 883px;
+    left: 99px;
+    background-color: var(--color-red-100);
+    width: 162px;
+    height: 47px;
+  }
+  .view-behance1 {
+    position: absolute;
+    top: 896px;
+    left: 135px;
+    font-size: var(--font-size-smi-6);
+    font-weight: 500;
+    color: var(--color-white);
+  }
+  .home-child5 {
+    position: absolute;
+    top: 97px;
+    left: 0;
+    background-color: var(--color-gray-300);
+    width: 1280px;
+    height: 914px;
+    cursor: pointer;
+  }
+  .group-child3,
+  .group-child4 {
+    position: absolute;
+    border-radius: var(--br-21xl);
+    width: 524px;
+    height: 352px;
+  }
+  .group-child3 {
+    top: 23.38px;
+    left: 17.09px;
+    background-color: transparent;
+    border: 2px solid var(--color-white);
+    box-sizing: border-box;
+  }
+  .group-child4 {
+    top: 48.26px;
+    left: 0;
+    background-color: var(--color-white);
+    transform: rotate(-5.28deg);
+    transform-origin: 0 0;
+  }
+  .email-me2 {
+    position: absolute;
+    top: 136px;
+    left: 224px;
+    font-size: 21.58px;
+    font-weight: 600;
+    text-align: left;
+  }
+  .im-glad-that {
+    margin: 0;
+  }
+  .im-glad-that-container {
+    position: absolute;
+    top: 183.67px;
+    left: 120.74px;
+    font-weight: 500;
+    color: #707070;
+    display: inline-block;
+    width: 312px;
+  }
+  .group-child5 {
+    position: absolute;
+    top: 275px;
+    left: 154.74px;
+    border-radius: 15px;
+    background-color: var(--color-black);
+    width: 101px;
+    height: 45px;
+  }
+  .cancel,
+  .contact-me {
+    position: absolute;
+    font-weight: 500;
+  }
+  .contact-me {
+    top: 288px;
+    left: 165.74px;
+    color: var(--color-white);
+    cursor: pointer;
+  }
+
+  .cancel {
+    top: 286px;
+    left: 323.74px;
+    font-size: 14.34px;
+    cursor: pointer;
+  }
+  .group-child6,
+  .group-icon6,
+  .group-icon7 {
+    position: absolute;
+    height: 10.63%;
+    width: 7.94%;
+    top: 18.06%;
+    right: 64.14%;
+    bottom: 71.31%;
+    left: 27.92%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .group-icon6,
+  .group-icon7 {
+    height: 11.41%;
+    width: 7.22%;
+    top: 17.05%;
+    right: 46.45%;
+    bottom: 71.53%;
+    left: 46.33%;
+  }
+  .group-icon7 {
+    height: 10.31%;
+    width: 7.4%;
+    top: 18.61%;
+    right: 28.91%;
+    bottom: 71.08%;
+    left: 63.69%;
+  }
+  .iconsaxlineartagcross {
+    position: absolute;
+    top: 32px;
+    left: 475px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 262px;
+    left: 363px;
+    width: 554.19px;
+    height: 398.76px;
+    text-align: center;
+    font-size: 12.89px;
+  }
+  .home1 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1011px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-lg-9);
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+  }
+  
